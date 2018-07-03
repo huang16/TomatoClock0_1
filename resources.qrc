@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>D:/Game/CS1_6/favicon.ico</file>
+    </qresource>
+</RCC>

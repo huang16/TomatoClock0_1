@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>D:/Game/CS1_6/favicon.ico</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>../../Downloads/f98cbdc2c3a5215d3c23521454d65f8c.png</file>
+        <file>../../Downloads/mainicon.png</file>
+    </qresource>
+</RCC>
